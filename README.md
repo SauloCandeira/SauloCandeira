@@ -40,4 +40,4 @@ Sempre disposto aprender e encarar novos desafios junto com a tecnologia.
 [Linkedin](https://www.linkedin.com/in/saulocandeira/)
 
 Para mais informações visite: 
-🚩 [SauloCandeira] (https://www.saulocandeira.hk.tec.br) 🚩
+[SauloCandeira](https://www.saulocandeira.hk.tec.br) 
