@@ -8,7 +8,7 @@ Sempre disposto aprender e encarar novos desafios junto com a tecnologia.
 
  📝 Atualmente tenho estudado sobre as seguintes tecnologias : Blockchain, Automação, Inteligencia Artificial, Banco de Dados e Desenvolvimento de Web e APP.
  
- 🎈Para saber mais sobre mim e meu projeto visite meu website: [SauloCandeira](https://www.saulocandeira.hk.tec.br) 
+ 🎈Para saber mais sobre mim e meu projetos, visite meu website: [SauloCandeira](https://www.saulocandeira.hk.tec.br) 
 
  💻 Apaixonado pelo mercado financeiro e tencologia, estou desenvolvendo uma plataforma para unir empreendedores e start-ups: [INSTITUTO HK](https://www.instituto.hk.tec.br/) 
 
