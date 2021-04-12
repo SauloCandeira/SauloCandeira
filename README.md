@@ -10,7 +10,7 @@ Sempre disposto aprender e encarar novos desafios junto com a tecnologia.
  
  🎈Para saber mais sobre mim e meu projeto visite meu website: [SauloCandeira](https://www.saulocandeira.hk.tec.br) 
 
- 💻 Apaixonado pelo mercado financeiro e tencologia, eu e minha equipe estamos desenvolvendo uma comunidade cripto: [EterBank](https://www.eterbank.com.br) 
+ 💻 Apaixonado pelo mercado financeiro e tencologia, estou desenvolvendo uma plataforma para unir empreendedores e start-ups: [INSTITUTO HK](https://www.instituto.hk.tec.br/) 
 
  🚩 Sou formado na area de gestao e negocios, e agora em tecnologia para unir inovações ao mundo do empreendedorismo.
  
