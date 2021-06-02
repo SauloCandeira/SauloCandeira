@@ -10,7 +10,7 @@ Sempre disposto aprender e encarar novos desafios junto com a tecnologia.
  
  🎈Para saber mais sobre mim e meu projetos, visite meu website: [Saulo Candeira](https://www.saulocandeira.hk.tec.br) 
 
- 💻 Apaixonado pelo mercado financeiro e tencologia, estou desenvolvendo uma plataforma para unir empreendedores e start-ups: [HUB HK](https://www.hub.hk.tec.br/) 
+ 💻 Apaixonado pelo mercado financeiro e tecnologia, estou desenvolvendo uma plataforma para unir empreendedores e start-ups: [HUB HK](https://www.hub.hk.tec.br/) 
 
  🚩 Sou formado na area de gestao e negocios, e agora em tecnologia para unir inovações ao mundo do empreendedorismo.
  
