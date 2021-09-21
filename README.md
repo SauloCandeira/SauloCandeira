@@ -35,7 +35,7 @@ Sempre disposto aprender e encarar novos desafios junto com a tecnologia.
 
 ### Interesses em programação :
 
-💻 PHP | Javascript | Banco de dados | SQL | Web Developer | Segurança da Informação | Front-End | Back-end | Fullstack
+💻 Python | Javascript | SQL | Web Developer | Datascience | Front-End | Back-end | Fullstack
 
 [Linkedin](https://www.linkedin.com/in/saulocandeira/)
 
