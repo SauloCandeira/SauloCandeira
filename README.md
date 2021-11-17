@@ -22,7 +22,7 @@ Sempre disposto aprender e encarar novos desafios junto com a tecnologia.
 
 💡 Networking e Coworking
 
-💼 Gestão de projeto
+💼 Gestão de projeto 
 
 🚀 Lançamentos de Projetos
 
@@ -35,7 +35,7 @@ Sempre disposto aprender e encarar novos desafios junto com a tecnologia.
 
 ### Interesses em programação :
 
-💻 Python | Javascript | SQL | Web Developer | Datascience | Front-End | Back-end | Fullstack
+💻 Scrum | Python | Javascript | SQL | Java | Web Developer | Datascience | Front-End | Back-end | Fullstack | Devops
 
 [Linkedin](https://www.linkedin.com/in/saulocandeira/)
 
