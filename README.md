@@ -35,7 +35,7 @@ Sempre disposto aprender e encarar novos desafios junto com a tecnologia.
 
 ### Interesses em programação :
 
-💻 Scrum | Python | Javascript | SQL | Java | Web Developer | Datascience | Front-End | Back-end | Fullstack | Devops
+💻 Blockchain | Scrum | Python | Javascript | SQL | Java | Web Developer | Datascience | Front-End | Back-end | Fullstack | Devops
 
 [Linkedin](https://www.linkedin.com/in/saulocandeira/)
 
