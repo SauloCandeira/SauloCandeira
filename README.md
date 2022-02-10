@@ -46,11 +46,11 @@ Sempre disposto aprender e encarar novos desafios junto com a tecnologia.
 
 <!--START_SECTION:waka-->
 ```text
-Google Collab   ██████████████████░░░░░░░ 
-Python          ██████████████████░░░░░░░ 
-SQL             ███████████░░░░░░░░░░░░░░ 
-Flask           ███████████░░░░░░░░░░░░░░
-React.js        ███████████░░░░░░░░░░░░░░ 
+Jupyter Notebooks ██████████████████░░░░░░░ 
+Python            ██████████████████░░░░░░░ 
+SQL               ███████████░░░░░░░░░░░░░░ 
+Flask             ███████████░░░░░░░░░░░░░░
+React.js          ███████████░░░░░░░░░░░░░░ 
 ```
 
 
