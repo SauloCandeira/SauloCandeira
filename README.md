@@ -46,7 +46,7 @@ Sempre disposto aprender e encarar novos desafios junto com a tecnologia.
 
 <!--START_SECTION:waka-->
 ```text
-Jupyter Notebooks ██████████████████░░░░░░░ 
+Jupyter Notebook  ██████████████████░░░░░░░ 
 Python            ██████████████████░░░░░░░ 
 SQL               ███████████░░░░░░░░░░░░░░ 
 Flask             ███████████░░░░░░░░░░░░░░
