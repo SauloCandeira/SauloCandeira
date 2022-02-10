@@ -58,6 +58,7 @@ React.js          ███████████░░░░░░░░░�
 
 💻 Blockchain | Scrum | Python | Javascript | SQL | Java | Web Developer | Datascience | Front-End | Back-end | Fullstack | Devops
 
+### Status :
 <div align="center">
   <a href="https://github.com/saulocandeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saulocandeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
