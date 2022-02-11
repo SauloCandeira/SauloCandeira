@@ -42,7 +42,7 @@ Sempre disposto aprender e encarar novos desafios junto com a tecnologia.
 
 🤓 Autoconhecimento
 
-### Habilidades técnicas
+### Habilidades técnicas:
 
 <!--START_SECTION:waka-->
 ```text
