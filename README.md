@@ -20,7 +20,7 @@ Sempre disposto aprender e encarar novos desafios junto com a tecnologia.
  
  🎈Para saber mais sobre mim e meus projetos, visite o website: [Saulo Candeira](https://saulocandeira.github.io/portfolio/) 
 
- 💻 Apaixonado pelo mercado financeiro e tecnologia, estou desenvolvendo uma plataforma para unir empreendedores e start-ups: [HUB HK](https://www.hub.hk.tec.br/) 
+ 💻 Apaixonado pelo mercado financeiro e tecnologia, estou desenvolvendo uma plataforma para unir empreendedores e start-ups, um game NFT integrado a uma plataforma EAD de Finanças & Tecnologia: [HUB HK](https://www.hub.hk.tec.br/) 
 
  🚩 Sou formado na area de gestao e negocios, e agora em tecnologia para unir inovações ao mundo do empreendedorismo.
  
