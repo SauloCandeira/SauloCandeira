@@ -46,11 +46,14 @@ Sempre disposto aprender e encarar novos desafios junto com a tecnologia.
 
 <!--START_SECTION:waka-->
 ```text
-Jupyter Notebook  ██████████████████░░░░░░░ 
+Google Collab     ██████████████████░░░░░░░ 
+Jupyter Notebook  ██████████████████░░░░░░░
 Python            ██████████████████░░░░░░░ 
-SQL               ███████████░░░░░░░░░░░░░░ 
+Javascript        ██████████████████░░░░░░░
 Flask             ███████████░░░░░░░░░░░░░░
-Javascript        ███████████░░░░░░░░░░░░░░ 
+Ngrok             ███████████░░░░░░░░░░░░░░ 
+SQL               ███████████░░░░░░░░░░░░░░ 
+FireBase(NoSQL)   ███████████░░░░░░░░░░░░░░ 
 ```
 
 
