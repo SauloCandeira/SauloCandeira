@@ -22,7 +22,7 @@ Sempre disposto aprender e encarar novos desafios junto com a tecnologia.
 
  💻 Apaixonado pelo mercado financeiro e tecnologia, estou desenvolvendo uma plataforma para unir empreendedores e start-ups, um game NFT integrado a uma plataforma EAD de Finanças & Tecnologia: [IHK](https://saulocandeira.github.io/Institute/) 
 
- 🚩 Sou formado na area de Tecnico em Contabilidade & Tecnologo em Gestão de Negócios Imobiliarios, e agora em Analise e Desenvolvimento de Sistmmas, na area da tecnologia para unir inovações ao mundo do empreendedorismo.
+ 🚩 Sou formado na area de Tecnico em Contabilidade & Tecnologo em Gestão de Negócios Imobiliarios, e agora em Analise e Desenvolvimento de Sistemas, na area da tecnologia para unir inovações ao mundo do empreendedorismo.
  
 
 
