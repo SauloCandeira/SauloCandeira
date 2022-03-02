@@ -65,9 +65,11 @@ pie
 ```
 ```mermaid
 pie
-"Dogs" : 386
-"Cats" : 85
-"Rats" : 15
+"React.js" : 20
+"Flaks.py" : 20
+"Python" : 20
+"Javascript" : 20
+"Database" : 20
 ```
 
 ### Interesses em programação :
