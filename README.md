@@ -57,17 +57,23 @@ SQL               ███████████░░░░░░░░░�
 FireBase(NoSQL)   ███████████░░░░░░░░░░░░░░ 
 ```
 
-```
-pie
-"Google Collab" : 11
-"Jupyter Notebook" : 11
-"Python" : 11
-"Javascript" : 11
-"React" : 11
-"Flask" : 11
-"Ngrok" : 11
-"SQL" : 11
-"Firebase(NoSQL)" : 11
+```mermaid
+gitGraph:
+options
+{
+    "nodeSpacing": 150,
+    "nodeRadius": 10
+}
+end
+commit
+branch newbranch
+checkout newbranch
+commit
+commit
+checkout master
+commit
+commit
+merge newbranch
 ```
 ```mermaid
 pie
