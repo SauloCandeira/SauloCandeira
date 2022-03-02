@@ -59,17 +59,27 @@ FireBase(NoSQL)   ███████████░░░░░░░░░�
 
 ```
 pie
-"Dogs" : 386
-"Cats" : 85
-"Rats" : 15
+"Google Collab" : 11
+"Jupyter Notebook" : 11
+"Python" : 11
+"Javascript" : 11
+"React" : 11
+"Flask" : 11
+"Ngrok" : 11
+"SQL" : 11
+"Firebase(NoSQL)" : 11
 ```
 ```mermaid
 pie
-"React.js" : 20
-"Flaks.py" : 20
-"Python" : 20
-"Javascript" : 20
-"Database" : 20
+"Google Collab" : 11
+"Jupyter Notebook" : 11
+"Python" : 11
+"Javascript" : 11
+"React" : 11
+"Flask" : 11
+"Ngrok" : 11
+"SQL" : 11
+"Firebase(NoSQL)" : 11
 ```
 
 ### Interesses em programação :
