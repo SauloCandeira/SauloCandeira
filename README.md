@@ -46,7 +46,7 @@ Sempre disposto aprender e encarar novos desafios junto com a tecnologia.
 
 <!--START_SECTION:waka-->
 ```text
-Google Collab     ██████████████████░░░░░░░ 
+Google Colab      ██████████████████░░░░░░░ 
 Jupyter Notebook  ██████████████████░░░░░░░
 Python            ██████████████████░░░░░░░ 
 Javascript        ██████████████████░░░░░░░
@@ -77,7 +77,7 @@ merge newbranch
 ```
 ```mermaid
 pie
-"Google Collab" : 11
+"Google Colab" : 11
 "Jupyter Notebook" : 11
 "Python" : 11
 "Javascript" : 11
