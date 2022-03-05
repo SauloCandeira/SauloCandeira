@@ -58,22 +58,14 @@ FireBase(NoSQL)   ███████████░░░░░░░░░�
 ```
 
 ```mermaid
-gitGraph:
-options
-{
-    "nodeSpacing": 150,
-    "nodeRadius": 10
-}
-end
-commit
-branch newbranch
-checkout newbranch
-commit
-commit
-checkout master
-commit
-commit
-merge newbranch
+flowchart LR
+Z[Desenvolvimento] --> A[Front-End]
+Z  --> B
+A[Front-End] --> C{Firebase}
+B(Back-End) --> C{Firebase}
+C --> D[Auth]
+C --> E[Database]
+C --> F[Storage]
 ```
 ```mermaid
 pie
