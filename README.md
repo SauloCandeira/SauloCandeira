@@ -65,8 +65,6 @@ K --> B{Back-End}
 L[VSCode] --> A{Front-End} 
 L --> B{Back-End}
 
-G[Django] --> C{Firebase}
-
 Z{IDE'S} --> K[Colaboratory]
 Z  --> L
 
