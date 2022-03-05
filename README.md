@@ -63,6 +63,8 @@ Z[Desenvolvimento] --> A[Front-End]
 Z  --> B
 A[Front-End] --> C{Firebase}
 B(Back-End) --> C{Firebase}
+B(Back-End) --> G[Django]
+B(Back-End) --> H[Flask]
 C --> D[Auth]
 C --> E[Database]
 C --> F[Storage]
