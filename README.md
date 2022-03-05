@@ -60,8 +60,10 @@ FireBase(NoSQL)   ███████████░░░░░░░░░�
 ```mermaid
 flowchart LR
 
-K[Colaboratory] --> A{Front-End} --> B{Back-End}
-L[VSCode] --> A{Front-End} --> B{Back-End}
+K[Colaboratory] --> A{Front-End} 
+K --> B{Back-End}
+L[VSCode] --> A{Front-End} 
+L --> B{Back-End}
 
 G[Django] --> C{Firebase}
 
