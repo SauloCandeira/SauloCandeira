@@ -77,8 +77,16 @@ A{Front-End} --> J[React] --> N{Big Data}
 B{Back-End} --> G[Django] --> N{Big Data}
 B{Back-End} --> H[Flask] --> N{Big Data}
 
-N{Big Data} --> C{Firebase}
+A{Front-End} --> I[Javascript] --> O{Build}
+A{Front-End} --> J[React] --> O{Build}
 
+B{Back-End} --> G[Django] --> O{Build}
+B{Back-End} --> H[Flask] --> O{Build}
+
+O{Build} 
+
+
+N{Big Data} --> C{Firebase}
 
 
 C --> D[Auth]
