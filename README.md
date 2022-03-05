@@ -83,7 +83,7 @@ A{Front-End} --> J[React] --> O{Build}
 B{Back-End} --> G[Django] --> O{Build}
 B{Back-End} --> H[Flask] --> O{Build}
 
-O{Build} 
+O{API} 
 
 
 N{Big Data} --> C{Firebase}
