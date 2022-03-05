@@ -60,7 +60,7 @@ FireBase(NoSQL)   ███████████░░░░░░░░░�
 ```mermaid
 flowchart LR
 
-Z[Desenvolvimento] --> A[Front-End]
+Z{Desenvolvimento} --> A[Front-End]
 Z  --> B
 
 A{Front-End} --> I[Javascript] --> C{Firebase}
