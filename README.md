@@ -63,11 +63,11 @@ flowchart LR
 Z[Desenvolvimento] --> A[Front-End]
 Z  --> B
 
-A[Front-End] --> I[Javascript] --> C{Firebase}
-A[Front-End] --> J[React] --> C{Firebase}
+A{Front-End} --> I[Javascript] --> C{Firebase}
+A{Front-End} --> J[React] --> C{Firebase}
 
-B(Back-End) --> G[Django] --> C{Firebase}
-B(Back-End) --> H[Flask] --> C{Firebase}
+B{Back-End} --> G[Django] --> C{Firebase}
+B{Back-End} --> H[Flask] --> C{Firebase}
 
 
 C --> D[Auth]
