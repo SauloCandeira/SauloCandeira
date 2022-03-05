@@ -71,11 +71,14 @@ K --> B{Back-End}
 L[VSCode] --> A{Front-End} 
 L --> B{Back-End}
 
-A{Front-End} --> I[Javascript] --> C{Firebase}
-A{Front-End} --> J[React] --> C{Firebase}
+A{Front-End} --> I[Javascript] --> N{Big Data}
+A{Front-End} --> J[React] --> N{Big Data}
 
-B{Back-End} --> G[Django] --> C{Firebase}
-B{Back-End} --> H[Flask] --> C{Firebase}
+B{Back-End} --> G[Django] --> N{Big Data}
+B{Back-End} --> H[Flask] --> N{Big Data}
+
+N{Big Data} --> C{Firebase}
+
 
 
 C --> D[Auth]
