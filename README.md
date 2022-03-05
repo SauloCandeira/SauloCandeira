@@ -60,7 +60,7 @@ FireBase(NoSQL)   ███████████░░░░░░░░░�
 ```mermaid
 flowchart LR
 
-M[Jupyter] --> A{Front-End} 
+M[Jupyter] --> Z{IDE'S} 
 
 Z{IDE'S} --> K[Colaboratory]
 Z  --> L
