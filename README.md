@@ -67,9 +67,8 @@ A[Front-End] --> C{Firebase}
 A[Front-End] --> I[Javascript]
 A[Front-End] --> J[React]
 
-B(Back-End) --> C{Firebase}
-B(Back-End) --> G[Django]
-B(Back-End) --> H[Flask]
+B(Back-End) --> G[Django] --> C{Firebase}
+B(Back-End) --> H[Flask] --> C{Firebase}
 
 
 C --> D[Auth]
