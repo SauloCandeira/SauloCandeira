@@ -71,19 +71,15 @@ K --> B{Back-End}
 L[VSCode] --> A{Front-End} 
 L --> B{Back-End}
 
-A{Front-End} --> I[Javascript] --> N{Big Data}
-A{Front-End} --> J[React] --> N{Big Data}
+A{Front-End} --> I[Javascript] --> O{API} 
+A{Front-End} --> J[React] --> O{API} 
 
-B{Back-End} --> G[Django] --> N{Big Data}
-B{Back-End} --> H[Flask] --> N{Big Data}
+B{Back-End} --> G[Django] --> O{API} 
+B{Back-End} --> H[Flask] --> O{API} 
 
-A{Front-End} --> I[Javascript] --> O{Build}
-A{Front-End} --> J[React] --> O{Build}
 
-B{Back-End} --> G[Django] --> O{Build}
-B{Back-End} --> H[Flask] --> O{Build}
 
-O{API} 
+O{API} --> N{Big Data}
 
 
 N{Big Data} --> C{Firebase}
