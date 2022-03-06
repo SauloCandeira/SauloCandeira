@@ -85,7 +85,7 @@ O{API} --> N{Big Data}
 N{Big Data} --> C{Firebase}
 N --> P{Analytics}
 
-N --> P[SEO]
+P --> Q[SEO]
 
 C --> D[Auth]
 C --> E[Database]
