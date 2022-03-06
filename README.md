@@ -83,10 +83,11 @@ O{API} --> N{Big Data}
 
 
 N{Big Data} --> C{Firebase}
-N --> P{Analytics}
+N --> P{ETL}
 
 P --> Q[SEO]
 P --> R[Business-Inteligence]
+P --> S[Analytics]
 
 
 C --> D[Auth]
