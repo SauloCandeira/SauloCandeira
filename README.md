@@ -81,10 +81,12 @@ B{Back-End} --> H[Flask] --> O{API}
 
 O{API} --> N{Big Data}
 
+N{Big Data} --> T{SQL}
+
 
 N{Big Data} --> C{Firebase}
-N --> P{ETL}
 
+N --> P{ETL}
 P --> Q[SEO]
 P --> R[Business-Inteligence]
 P --> S[Analytics]
