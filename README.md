@@ -86,6 +86,7 @@ N{Big Data} --> C{Firebase}
 N --> P{Analytics}
 
 P --> Q[SEO]
+P --> R[Power B.I]
 
 
 C --> D[Auth]
