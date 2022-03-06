@@ -84,7 +84,7 @@ O{API} --> N{Big Data}
 N{Big Data} --> T{SQL}
 
 
-N{Big Data} --> C{Firebase}
+N{Big Data} --> C{NoSQL}
 
 N --> P{ETL}
 P --> Q[SEO]
