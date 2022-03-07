@@ -95,9 +95,9 @@ P --> R[Business-Inteligence]
 P --> S[Analytics]
 
 
-C --> D[Auth]
-C --> E[Database]
-C --> F[Storage]
+C --> D[Firebase]
+C --> E[MongoDB]
+C --> F[Neo4j]
 ```
 ```mermaid
 pie
