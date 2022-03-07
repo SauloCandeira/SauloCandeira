@@ -82,7 +82,9 @@ B{Back-End} --> H[Flask] --> O{API}
 O{API} --> N{Big Data}
 
 N{Big Data} --> T{SQL}
-
+T --> U[SQLite]
+T --> V[SQLServer]
+T --> X[PostGresql]
 
 N{Big Data} --> C{NoSQL}
 
