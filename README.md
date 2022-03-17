@@ -101,15 +101,16 @@ C --> F[Neo4j]
 ```
 ```mermaid
 pie
-"Google Colab" : 11
-"Jupyter Notebook" : 11
-"Python" : 11
-"Javascript" : 11
-"React" : 11
-"Flask" : 11
-"Ngrok" : 11
-"SQL" : 11
-"Firebase(NoSQL)" : 11
+"Google Colab" : 10
+"Jupyter Notebook" : 10
+"Python" : 10
+"Javascript" : 10
+"React" : 10
+"Flask" : 10
+"Django" : 10
+"Ngrok" : 10
+"SQL" : 10
+"Firebase(NoSQL)" : 10
 ```
 
 ### Interesses em programação :
