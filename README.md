@@ -64,7 +64,7 @@ flowchart LR
 
 M[Docker] --> Z{IDE'S} 
 
-Z{IDE'S} --> K[Colaboratory]
+Z{IDE'S} --> K[Jupyter]
 Z  --> L
 
 K[Colaboratory] --> A{Front-End} 
