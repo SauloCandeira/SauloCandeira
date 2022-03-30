@@ -67,7 +67,7 @@ M[Docker] --> Z{IDE'S}
 Z{IDE'S} --> K[Jupyter]
 Z  --> L
 
-K[Colaboratory] --> A{Front-End} 
+K[Jupyter] --> A{Front-End} 
 K --> B{Back-End}
 L[VSCode] --> A{Front-End} 
 L --> B{Back-End}
