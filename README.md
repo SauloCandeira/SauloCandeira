@@ -16,7 +16,7 @@ Sempre disposto aprender e encarar novos desafios junto com a tecnologia.
 
 ### Sobre mim
 
- 📝 Atualmente tenho estudado sobre as seguintes tecnologias : Blockchain, Automação, Inteligencia Artificial, Banco de Dados e Desenvolvimento de Web e APP.
+ 📝 Atualmente tenho estudado sobre as seguintes tecnologias : IOT, Blockchain, Automação, Inteligencia Artificial, Banco de Dados e Desenvolvimento de Web e APP.
  
  🎈Para saber mais sobre mim e meus projetos, visite o website: [Saulo Candeira](https://saulocandeira.github.io/founder/) 
 
@@ -28,7 +28,7 @@ Sempre disposto aprender e encarar novos desafios junto com a tecnologia.
 
 ###  Competências trabalhadas: 
  
-📝 Desenvolvimento Web e APP
+📝 Desenvolvimento Web, APP & IOT
 
 💡 Networking e Coworking
 
@@ -56,6 +56,9 @@ Flask             ███████████░░░░░░░░░�
 Ngrok             ███████████░░░░░░░░░░░░░░ 
 SQL               ███████████░░░░░░░░░░░░░░ 
 FireBase(NoSQL)   ███████████░░░░░░░░░░░░░░ 
+QGIS              ███████████░░░░░░░░░░░░░░ 
+OpenDroneMap      ███████████░░░░░░░░░░░░░░
+Sketchup          ███████████░░░░░░░░░░░░░░
 ```
 
 ### MY STACK:
