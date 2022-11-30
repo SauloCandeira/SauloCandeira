@@ -15,7 +15,7 @@ I’m a Dev Jr. Currently I'm working as a Web, Mobile e IOT developer. 🚀
 
 #### My current tools 
 📲 Front-end Mobile with React Native  
-🌎 Front-end Web with Reactjs and Vannilajs
+🌎 Front-end Web with Reactjs and Vannilajs <br/>
 📡 Back-end with Python and PHP  
 🧰 And more...  
 
