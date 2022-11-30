@@ -11,7 +11,7 @@
 
 ### I'm Saulo Candeira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I’m a Dev Jr. Born in Brasília-DF, Brazil. 🇧🇷  <br/> 
+I’m a Dev Jr Full Stack. Born in Brasília-DF, Brazil. 🇧🇷  <br/> 
 Currently I'm working as a Web, Mobile e IOT developer. 🚀
 
 #### My current tools 
@@ -27,12 +27,12 @@ Currently I'm working as a Web, Mobile e IOT developer. 🚀
 - Self-taught
 - DIY
 
+#### About
+Currently building a crowdfunding Website: [OPEN](https://saulocandeira.github.io/instituto/) <br/>
+This is currently my resume: [OPEN](https://www.canva.com/design/DAFM0XAdWa4/kQH0CskQnN_1fW6RiBwadA/edit?utm_content=DAFM0XAdWa4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+
 #### Interests in programming
  Blockchain | Scrum | Python | Javascript | SQL | Java | Web Developer | Datascience | Front-End | Back-end | Fullstack | Devops
-
-#### About
-homem_vampiro Project: [OPEN](https://saulocandeira.github.io/instituto/) <br/>
-curriculum: [OPEN](https://www.canva.com/design/DAFM0XAdWa4/kQH0CskQnN_1fW6RiBwadA/edit?utm_content=DAFM0XAdWa4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
 #### Status 
 <div align="center">
