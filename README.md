@@ -19,22 +19,17 @@ I’m a Dev Jr. Currently I'm working as a Web, Mobile e IOT developer. 🚀
 📡 Back-end with Python and PHP  
 🧰 And more...  
 
-### About
-
-💻 Projects: [IHK](https://saulocandeira.github.io/instituto/) 
-💻 Projects: [IHK](https://saulocandeira.github.io/instituto/) 
-
 ### hobbies
-
 - ROBOTIC
 - 3D
 - DIY
 - IOT
 
-
 ### Interests in programming
-
 💻 Blockchain | Scrum | Python | Javascript | SQL | Java | Web Developer | Datascience | Front-End | Back-end | Fullstack | Devops
+
+### About
+💻 Projects: [IHK](https://saulocandeira.github.io/instituto/) 
 
 ### Status :
 <div align="center">
