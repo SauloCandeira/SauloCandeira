@@ -16,7 +16,8 @@ I’m a Dev Jr. Currently I'm working as a Web, Mobile e IOT developer. 🚀
 #### My current tools 
 📲 Front-end Mobile with React Native  
 🌎 Front-end Web with Reactjs and Vannilajs <br/>
-📡 Back-end with Python and PHP  
+📡 Back-end with Python and PHP <br/>
+💻 Machine learning and business intelligence with Jupyter <br/>
 🧰 And more...  
 
 #### Skills
@@ -25,7 +26,7 @@ I’m a Dev Jr. Currently I'm working as a Web, Mobile e IOT developer. 🚀
 - DIY
 
 #### Interests in programming
-💻 Blockchain | Scrum | Python | Javascript | SQL | Java | Web Developer | Datascience | Front-End | Back-end | Fullstack | Devops
+ Blockchain | Scrum | Python | Javascript | SQL | Java | Web Developer | Datascience | Front-End | Back-end | Fullstack | Devops
 
 #### About
 Project: [OPEN](https://saulocandeira.github.io/instituto/) <br/>
