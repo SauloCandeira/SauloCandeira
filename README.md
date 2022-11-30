@@ -20,69 +20,14 @@ I’m a Dev Jr. Currently I'm working as a Web, Mobile e IOT developer. 🚀
 🧰 And more...  
 
 
-Are you a React Native developer? How about **using my extension** in your VSCode to building components quickly?
+### About
 
-[![R Component VSCode Extension](https://img.shields.io/visual-studio-marketplace/v/rodrigorgtic.rcomponent.svg?label=RComponent%20VSCode%20Extension&color=8257E6&labelColor=0A1033)](https://marketplace.visualstudio.com/items?itemName=rodrigorgtic.rcomponent)
-
-#### 💬 Find me elsewhere
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-goncalves-santana/)](https://www.linkedin.com/in/rodrigo-goncalves-santana/) 
-[![Gmail Badge](https://img.shields.io/badge/-rodrigorgtic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorgtic@gmail.com)](mailto:rodrigorgtic@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/rodrigo-goncalves-santana/)](https://www.instagram.com/rodrigo.goncalves.s/)
+ 💻 My projects: [IHK](https://saulocandeira.github.io/Institute/) 
 
 
-
-
-### Me Chamo Saulo Candeira estudante de Ciência da Computação 
-
-Sempre disposto aprender e encarar novos desafios junto com a tecnologia.
-
-### Sobre mim
-
- 📝 Atualmente tenho estudado sobre as seguintes tecnologias : IOT, Blockchain, Automação, Inteligencia Artificial, Banco de Dados e Desenvolvimento de Web e APP.
- 
- 🎈Para saber mais sobre mim e meus projetos, visite o website: [Saulo Candeira](https://saulocandeira.github.io/founder/) 
-
- 💻 Apaixonado pelo mercado financeiro e tecnologia, estou desenvolvendo uma plataforma para unir empreendedores e start-ups, um game NFT integrado a uma plataforma EAD de Finanças & Tecnologia: [IHK](https://saulocandeira.github.io/Institute/) 
-
- 🚩 Sou formado na area de Tecnico em Contabilidade & Tecnologo em Gestão de Negócios Imobiliarios, e agora em Analise e Desenvolvimento de Sistemas, na area da tecnologia para unir inovações ao mundo do empreendedorismo.
  
 
 
-###  Competências trabalhadas: 
- 
-📝 Desenvolvimento Web, APP & IOT
-
-💡 Networking e Coworking
-
-💼 Gestão de projeto 
-
-🚀 Lançamentos de Projetos
-
-💬 Comunicação
-
-📖 Aprendizagem autodirigida
-
-🤓 Autoconhecimento
-
-### Habilidades técnicas:
-
-<!--START_SECTION:waka-->
-```text
-Google Colab      ██████████████████░░░░░░░ 
-Jupyter Notebook  ██████████████████░░░░░░░
-Python            ██████████████████░░░░░░░ 
-Javascript        ██████████████████░░░░░░░
-React             ███████████░░░░░░░░░░░░░░
-Django            ███████████░░░░░░░░░░░░░░
-Flask             ███████████░░░░░░░░░░░░░░
-Ngrok             ███████████░░░░░░░░░░░░░░ 
-SQL               ███████████░░░░░░░░░░░░░░ 
-FireBase(NoSQL)   ███████████░░░░░░░░░░░░░░ 
-QGIS              ███████████░░░░░░░░░░░░░░ 
-OpenDroneMap      ███████████░░░░░░░░░░░░░░
-Sketchup          ███████████░░░░░░░░░░░░░░
-```
 
 ### MY STACK:
 ```mermaid
