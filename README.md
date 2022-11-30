@@ -9,9 +9,10 @@
   <img align="center" alt="Saulo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 </div>
 
-### I'm Saulo Candeira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+### I'm Saulo Candeira 🇧🇷 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I’m a Dev Jr. Currently I'm working as a Web, Mobile e IOT developer. 🚀
+I’m a Dev Jr.  Born in Brasilia, Brazil. <br/> 
+Currently I'm working as a Web, Mobile e IOT developer. 🚀
 
 #### My current tools 
 📲 Front-end Mobile with React Native  
@@ -29,7 +30,7 @@ I’m a Dev Jr. Currently I'm working as a Web, Mobile e IOT developer. 🚀
  Blockchain | Scrum | Python | Javascript | SQL | Java | Web Developer | Datascience | Front-End | Back-end | Fullstack | Devops
 
 #### About
-Project: [OPEN](https://saulocandeira.github.io/instituto/) <br/>
+homem_vampiro Project: [OPEN](https://saulocandeira.github.io/instituto/) <br/>
 curriculum: [OPEN](https://www.canva.com/design/DAFM0XAdWa4/kQH0CskQnN_1fW6RiBwadA/edit?utm_content=DAFM0XAdWa4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
 #### Status 
