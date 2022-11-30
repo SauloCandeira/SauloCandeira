@@ -19,72 +19,11 @@ I’m a Dev Jr. Currently I'm working as a Web, Mobile e IOT developer. 🚀
 📡 Back-end with Python and PHP  
 🧰 And more...  
 
-
 ### About
 
- 💻 My projects: [IHK](https://saulocandeira.github.io/Institute/) 
+💻 My projects: [IHK](https://saulocandeira.github.io/Institute/) 
 
-
- 
-
-
-
-### MY STACK:
-```mermaid
-flowchart LR
-
-M[Docker] --> Z{IDE'S} 
-
-Z{IDE'S} --> K[Jupyter]
-Z  --> L
-
-K[Jupyter] --> A{Front-End} 
-K --> B{Back-End}
-L[VSCode] --> A{Front-End} 
-L --> B{Back-End}
-
-A{Front-End} --> I[Javascript] --> O{API} 
-A{Front-End} --> J[React] --> O{API} 
-
-B{Back-End} --> G[Django] --> O{API} 
-B{Back-End} --> H[Flask] --> O{API} 
-
-
-
-O{API} --> N{Big Data}
-
-N{Big Data} --> T{SQL}
-T --> U[SQLite]
-T --> V[SQLServer]
-T --> X[PostGresql]
-
-N{Big Data} --> C{NoSQL}
-
-N --> P{ETL}
-P --> Q[SEO]
-P --> R[Business-Inteligence]
-P --> S[Analytics]
-
-
-C --> D[Firebase]
-C --> E[MongoDB]
-C --> F[Neo4j]
-```
-```mermaid
-pie
-"Google Colab" : 10
-"Jupyter Notebook" : 10
-"Python" : 10
-"Javascript" : 10
-"React" : 10
-"Flask" : 10
-"Django" : 10
-"Ngrok" : 10
-"SQL" : 10
-"Firebase(NoSQL)" : 10
-```
-
-### Interesses em programação :
+### Interests in programming :
 
 💻 Blockchain | Scrum | Python | Javascript | SQL | Java | Web Developer | Datascience | Front-End | Back-end | Fullstack | Devops
 
