@@ -21,7 +21,7 @@ I’m a Dev Jr. Currently I'm working as a Web, Mobile e IOT developer. 🚀
 
 ### About
 
-💻 My projects: [IHK](https://saulocandeira.github.io/Institute/) 
+💻 My projects: [IHK](https://saulocandeira.github.io/instituto/) 
 
 ### Interests in programming :
 
