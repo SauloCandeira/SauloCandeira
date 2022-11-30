@@ -29,7 +29,7 @@ I’m a Dev Jr. Currently I'm working as a Web, Mobile e IOT developer. 🚀
 💻 Blockchain | Scrum | Python | Javascript | SQL | Java | Web Developer | Datascience | Front-End | Back-end | Fullstack | Devops
 
 ### About
-Project: [OPEN](https://saulocandeira.github.io/instituto/) 
+Project: [OPEN](https://saulocandeira.github.io/instituto/) <br/>
 curriculum: [OPEN](https://www.canva.com/design/DAFM0XAdWa4/kQH0CskQnN_1fW6RiBwadA/edit?utm_content=DAFM0XAdWa4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
 ### Status :
