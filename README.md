@@ -19,7 +19,7 @@ Currently I'm working as a Web, Mobile e IOT developer. 🚀
 🌎 Front-end Web with Reactjs and Vanillajs <br/>
 📡 Back-end with Nodejs and PHP <br/>
 📚 Database with PostgreSQL and SQLServer <br/>
-💻 Machine learning and business intelligence with Python
+💻 Machine learning and business intelligence with Python <br/>
 🧰 And more...  
 
 #### Skills
