@@ -19,20 +19,19 @@ I’m a Dev Jr. Currently I'm working as a Web, Mobile e IOT developer. 🚀
 📡 Back-end with Python and PHP  
 🧰 And more...  
 
-### hobbies
-- MAKER
-- 3D
+#### Skills
+- Maker
+- Self-taught
 - DIY
-- IOT
 
-### Interests in programming
+#### Interests in programming
 💻 Blockchain | Scrum | Python | Javascript | SQL | Java | Web Developer | Datascience | Front-End | Back-end | Fullstack | Devops
 
-### About
+#### About
 Project: [OPEN](https://saulocandeira.github.io/instituto/) <br/>
 curriculum: [OPEN](https://www.canva.com/design/DAFM0XAdWa4/kQH0CskQnN_1fW6RiBwadA/edit?utm_content=DAFM0XAdWa4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
-### Status :
+#### Status :
 <div align="center">
   <a href="https://github.com/saulocandeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saulocandeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
