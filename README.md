@@ -20,7 +20,7 @@ I’m a Dev Jr. Currently I'm working as a Web, Mobile e IOT developer. 🚀
 🧰 And more...  
 
 ### hobbies
-- ROBOTIC
+- MAKER
 - 3D
 - DIY
 - IOT
