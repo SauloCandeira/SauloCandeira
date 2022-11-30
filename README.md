@@ -9,9 +9,9 @@
   <img align="center" alt="Saulo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 </div>
 
-### I'm Saulo Candeira 🇧🇷 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+### I'm Saulo Candeira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I’m a Dev Jr.  Born in Brasilia, Brazil. <br/> 
+I’m a Dev Jr.  Born in Brasilia, Brazil. 🇧🇷  <br/> 
 Currently I'm working as a Web, Mobile e IOT developer. 🚀
 
 #### My current tools 
