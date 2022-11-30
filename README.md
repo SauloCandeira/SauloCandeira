@@ -9,15 +9,14 @@
   <img align="center" alt="Saulo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 </div>
 
-### Hi, I'm Rodrigo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+### Hi, I'm Saulo Candeira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I’m a Software Engineer. Currently I'm working as a Web and Mobile Educator and Content Producer at [**Rocketseat**](https://github.com/rocketseat-education). 🚀
+I’m a Developer. Currently I'm working as a Web and Mobile developer. 🚀
 
 #### My current tools 
 📲 Front-end Mobile with React Native  
-🌎 Front-end Web with Reactjs  
-📡 Back-end with Nodejs  
-🛠️ Typescript  
+🌎 Front-end Web with Reactjs and Vannilajs
+📡 Back-end with Python and PHP  
 🧰 And more...  
 
 
