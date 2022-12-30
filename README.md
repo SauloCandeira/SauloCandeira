@@ -16,6 +16,10 @@
 I’m a Dev Jr Full Stack. Born in Brasília-DF, Brazil. 🇧🇷  <br/> 
 Currently I'm working as a Web, Mobile and IOT developer. 🚀
 
+### My current project is Holding Kapital 
+
+this is an online platform for raising securities for investment in innovative projects in the early stages.
+
 #### My current tools 
 📲 Front-end Mobile with React Native  
 🌎 Front-end Web with Reactjs and Vanillajs <br/>
