@@ -19,6 +19,7 @@ Currently I'm working as a Web, Mobile and IOT developer. 🚀
 ### My current project is Holding Kapital 
 
 this is an online platform for raising securities for investment in innovative projects in the early stages.
+Currently building a crowdfunding Website: [OPEN](https://saulocandeira.github.io/instituto/) <br/>
 
 #### My current tools 
 📲 Front-end Mobile with React Native  
@@ -34,7 +35,6 @@ this is an online platform for raising securities for investment in innovative p
 - DIY
 
 #### About
-Currently building a crowdfunding Website: [OPEN](https://saulocandeira.github.io/instituto/) <br/>
 This is currently my resume: [OPEN](https://www.canva.com/design/DAFM0XAdWa4/kQH0CskQnN_1fW6RiBwadA/edit?utm_content=DAFM0XAdWa4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
 #### Interests in programming
