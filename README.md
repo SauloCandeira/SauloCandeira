@@ -20,6 +20,8 @@ Currently I'm working as a Web, Mobile and IOT developer. 🚀
 
 it is an online and decentralized platform for raising securities for investment in innovative projects in the early stages. <br/>
 Currently building a crowdfunding Website: [OPEN](https://saulocandeira.github.io/instituto/) <br/>
+Currently creating my youtube channel to develop interesting projects. [OPEN](https://www.youtube.com/channel/UCoFHjxppebPFdRroBBYC7Hw) <br/>  <br/>
+
 
 #### My current tools 
 📲 Front-end Mobile with React Native  
