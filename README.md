@@ -16,7 +16,7 @@
 I’m a Dev Jr Full Stack. Born in Brasília-DF, Brazil. 🇧🇷  <br/> 
 Currently I'm working as a Web, Mobile and IOT developer. 🚀
 
-### My current project is Holding Kapital 
+### My current project is Institute Holding Kapital (IHK)
 
 it is an online and decentralized platform for raising securities for investment in innovative projects in the early stages. <br/>
 Currently building a crowdfunding Website: [OPEN](https://saulocandeira.github.io/instituto/) <br/>
