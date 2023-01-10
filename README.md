@@ -24,13 +24,13 @@ Currently creating my youtube channel to develop interesting projects. [OPEN](ht
 
 
 #### My current tools 
-🧰 Design with figma and storybook <br/>
+🖼 Designer with Figma And Storybook <br/>
 🌎 Front-end Web with Reactjs and Vanillajs <br/>
 📲 Front-end Mobile with React Native   <br/>
 📡 Back-end with Nodejs and PHP <br/>
 📚 Database with PostgreSQL and SQLServer <br/>
 💻 Machine learning and business intelligence with Python <br/>
-And more...  
+🧰 And more...  
 
 #### Skills
 - Maker
