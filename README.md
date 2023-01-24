@@ -42,7 +42,7 @@ Currently creating my youtube channel to develop interesting projects. [OPEN](ht
 This is currently my resume: [OPEN](https://www.canva.com/design/DAFM0XAdWa4/kQH0CskQnN_1fW6RiBwadA/edit?utm_content=DAFM0XAdWa4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
 #### Interests in programming
- Blockchain | Scrum | Python | Javascript | SQL | Java | Web Developer | Datascience | Front-End | Back-end | Fullstack | Devops
+ Blockchain | Scrum | Python | Javascript | SQL | PHP | Web Developer | Datascience | Front-End | Back-end | Fullstack | Devops
 
 #### Status 
 <div align="center">
