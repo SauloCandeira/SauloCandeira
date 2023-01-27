@@ -19,7 +19,7 @@ Currently I'm working as a Web, Mobile and IOT developer. 🚀
 
 ### Professional goals.
 
-my professional goal is to become a full stack developer specializing in the javascript programming language
+My professional goal is to become a full stack developer specializing in the javascript programming language
 
 ### My current project is Institute Holding Kapital (IHK)
 
