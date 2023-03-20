@@ -69,6 +69,6 @@ This is currently my resume: [OPEN](https://www.canva.com/design/DAFM0XAdWa4/kQH
 #### Visitors
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{cceciliaz}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{saulocandeira}/count.svg" /></p> 
 <br>
 </div>
