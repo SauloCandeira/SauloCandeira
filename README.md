@@ -47,6 +47,9 @@ This is currently my resume: [OPEN](https://www.canva.com/design/DAFM0XAdWa4/kQH
 
 #### Interests in programming
  Blockchain | Scrum | Python | Javascript | SQL | PHP | Web Developer | Datascience | Front-End | Back-end | Fullstack | Devops
+ 
+#### Interests in eletronics
+ Microelectronics | Brain Machine Interface | Electronic circuits
 
 #### Status 
 <div align="center">
