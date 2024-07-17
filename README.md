@@ -21,13 +21,6 @@ Currently I'm working as a Web, Mobile and IOT developer. 🚀
 
 My professional goal is to become a full stack developer specializing in the javascript programming language
 
-### My current project is Institute Holding Kapital (IHK)
-
-it is an online and decentralized platform for raising securities for investment in innovative projects in the early stages. <br/>
-Currently building a crowdfunding Website: [OPEN](https://saulocandeira.github.io/instituto/) <br/>
-Currently creating my youtube channel to develop interesting projects. [OPEN](https://www.youtube.com/channel/UCoFHjxppebPFdRroBBYC7Hw) <br/>  <br/>
-
-
 #### My current tools 
 🖼 Designer with Figma And Storybook <br/>
 🌎 Front-end Web with Reactjs and Vanillajs <br/>
@@ -43,7 +36,15 @@ Currently creating my youtube channel to develop interesting projects. [OPEN](ht
 - DIY
 
 #### About
+Lattes: http://lattes.cnpq.br/2724650370941877
+
 This is currently my resume: [OPEN](https://www.canva.com/design/DAFM0XAdWa4/kQH0CskQnN_1fW6RiBwadA/edit?utm_content=DAFM0XAdWa4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+
+### My current project is Institute Holding Kapital (IHK)
+
+it is an online and decentralized platform for raising securities for investment in innovative projects in the early stages. <br/>
+Currently building a crowdfunding Website: [OPEN](https://saulocandeira.github.io/instituto/) <br/>
+Currently creating my youtube channel to develop interesting projects. [OPEN](https://www.youtube.com/channel/UCoFHjxppebPFdRroBBYC7Hw) <br/>  <br/>
 
 #### Interests in programming
  Blockchain | Scrum | Python | Javascript | SQL | PHP | Web Developer | Datascience | Front-End | Back-end | Fullstack | Devops
