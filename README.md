@@ -38,7 +38,7 @@ My professional goal is to become a full stack developer specializing in the jav
 #### About
 Lattes: http://lattes.cnpq.br/2724650370941877
 
-This is currently my resume: [OPEN](https://www.canva.com/design/DAFM0XAdWa4/kQH0CskQnN_1fW6RiBwadA/edit?utm_content=DAFM0XAdWa4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+This is currently my resume: [OPEN](https://saulocandeira.com.br/)
 
 ### My current project is Institute Holding Kapital (IHK)
 
